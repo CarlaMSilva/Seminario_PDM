@@ -1,4 +1,4 @@
-🛒 Ofertas QR
+# 🛒 Ofertas QR
 
 🌟 Visão Geral do Projeto
 

@@ -63,7 +63,7 @@ Tela da Lista de Ofertas [cite: 80]
 Tela de Localização [cite: 81]
 	Mostra onde o produto está localizado no supermercado.
 
-##⚙️ Tecnologias Envolvidas (A Serem Implementadas)
+## ⚙️ Tecnologias Envolvidas (A Serem Implementadas)
 
 (Insira aqui as tecnologias que você está usando ou planeja usar, como Flutter, React Native, Java/Kotlin, Swift/SwiftUI, etc.)
 
@@ -73,6 +73,6 @@ Tela de Localização [cite: 81]
 
     Recursos: Leitura de QR Code, Serviço de Notificação (Push/WhatsApp).
 
-📌 Status do Projeto
+## 📌 Status do Projeto
 
 Este repositório contém os arquivos e documentação (como o Ofertas QR.pdf ) para o desenvolvimento do projeto.

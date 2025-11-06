@@ -1,12 +1,12 @@
 # 🛒 Ofertas QR
 
-🌟 Visão Geral do Projeto
+## 🌟 Visão Geral do Projeto
 
 O Ofertas QR é um aplicativo móvel proposto para facilitar o acesso dos clientes às promoções de supermercados. O objetivo principal é tornar as compras mais rápidas, práticas e interativas por meio da tecnologia.
 
 Este projeto foi desenvolvido pela aluna Carla Maria da Silva sob orientação do Professor Ramide Dantas no Instituto Federal de Pernambuco (IFPE).
 
-🎯 Objetivo do Aplicativo
+## 🎯 Objetivo do Aplicativo
 
 O aplicativo visa facilitar a vida do cliente ao permitir:
 
@@ -16,7 +16,7 @@ Notificações Interativas: Recebimento de promoções via notificação do app 
 
 Localização Rápida: Após visualizar um produto em oferta, o app permite localizar rapidamente o produto dentro do supermercado.
 
-💡 Funcionamento Proposto
+## 💡 Funcionamento Proposto
 
 O fluxo de funcionamento do Ofertas QR é o seguinte:
 
@@ -32,7 +32,7 @@ Visualização de Detalhes: Ao clicar em uma oferta, o app exibe as seguintes in
 
     Localização dentro da loja (exemplo: Corredor 3 - Sessão de Higiene).
 
-📱 Protótipos (Telas Principais)
+## 📱 Protótipos (Telas Principais)
 
 O projeto inclui diversas telas de protótipo (wireframes) para demonstrar a experiência do usuário:
 Tela	Descrição
@@ -63,7 +63,7 @@ Tela da Lista de Ofertas [cite: 80]
 Tela de Localização [cite: 81]
 	Mostra onde o produto está localizado no supermercado.
 
-⚙️ Tecnologias Envolvidas (A Serem Implementadas)
+##⚙️ Tecnologias Envolvidas (A Serem Implementadas)
 
 (Insira aqui as tecnologias que você está usando ou planeja usar, como Flutter, React Native, Java/Kotlin, Swift/SwiftUI, etc.)
 

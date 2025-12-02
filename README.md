@@ -65,11 +65,11 @@ Tela de Localização [cite: 81]
 
 ## ⚙️ Tecnologias Envolvidas (A Serem Implementadas)
 
-(Insira aqui as tecnologias que você está usando ou planeja usar, como Flutter, React Native, Java/Kotlin, Swift/SwiftUI, etc.)
+Tecnologias: 
 
-    Linguagem/Framework Principal:
+    Linguagem/Framework Principal: Kotlin
 
-    Banco de Dados/API:
+    Banco de Dados/API: Firebase
 
     Recursos: Leitura de QR Code, Serviço de Notificação (Push/WhatsApp).
 
